@@ -1,0 +1,167 @@
+This is a public advisory of neglected risk management platform and to correct the actions.
+at this time all inquires have been ignored to the fullest compacity
+released reports have flooded social media and possibly escalated attacks. Ive tried to report to cisa and nist. No rebuttal from cisa and nist said they dont handle bug reports or concerns of safety???
+C&G security solutions 
+
+11/23/2026 11:14 am
+
+>ATTEMPT TO CORRECT platform breach ignored after 5 notices & a phone call
+
+   FORMAL NOTICE OF BREACH, IMPROPER REPORT HANDLING, AND DEMAND FOR
+CORRECTIVE ACTION
+DATE: November 23, 2026
+TO:
+
+Trend Micro Incorporated / TrendAI Security
+
+Zero Day Initiative (ZDI)
+
+Attn: Legal Department, 
+Executive Leadership, and Program Management
+
+Email: zdi@trendmicro.com
+
+Platforms: https://www.trendaisecurity.com/en-us/platform | https://www.zerodayinitiative.com/
+FROM:
+C. Gustin
+C&G Research & Security Labs head researchers priority assessment 
+
+SUBJECT: Formal Notice of Breach of Program Terms, Improper Closure of Vulnerability Reports,
+Failure to Disclose Data Exposure, and Preservation of Evidence
+---
+
+
+1. Purpose of This Notice
+This letter serves as formal notice that Trend Micro Incorporated, TrendAI Security, and the Zero Day
+Initiative (ZDI) have failed to honor basic contractual obligations, fair-dealing standards, and
+data-security duties regarding approximately 150 vulnerability research reports submitted by C. Gustin
+and C&G Research & Security Labs.
+Instead of conducting good-faith technical reviews and compensating valid research as represented by
+your program, ZDI has systematically closed valid submissions—often through automated review—under
+the false claim that no Proof of Concept (PoC) was provided, ignored seven written follow-ups since
+October 23, 2026, and failed to provide transparent notice regarding internal handling and exposure risks.
+
+
+ Page 1 We are demanding immediate corrective action, a complete audit of all affected submissions, full breach
+and exposure transparency, and fair compensation for work retained and processed by your platform.
+---
+2. Chronological Summary of Facts
+
+
+1. Publicly Documented ZDI Disclosure Incident (October 19–21, 2026):
+Between October 20 and October 21, 2026, ZDI exposed six unpatched vulnerability reports—five
+affecting the Linux kernel and one affecting ConnMan (ZDI-CAN-33367, ZDI-CAN-33774,
+ZDI-CAN-33549, ZDI-CAN-34068, ZDI-CAN-34076, and ZDI-CAN-32005)—to public mailing lists
+before fixes were widely available. These flaws carried severe ratings (up to CVSS 9.0) and included
+working exploit details, as documented by Sysdig (Detecting and Mitigating ZDI-CAN-33367 and Five
+Other Linux Flaws,
+https://www.sysdig.com/blog/detecting-and-mitigating-zdi-can-33367-and-five-other-linux-flaws) and
+ZDI's own advisory record (https://www.zerodayinitiative.com/advisories/ZDI-26-238/).
+
+
+2. Submission of 150 Vulnerability Reports (October 2026):
+Across October 2026—and specifically between October 23 and October 30, 2026—C. Gustin submitted
+approximately 150 vulnerability reports to ZDI. These submissions covered critical issues across major
+enterprise targets (including Samsung, Apple, Meta, GitHub, and Tesla) and included tracked ZDI cases
+such as Hackenem0016, Hackenem0081, Hackenem0109, Hackenem0120, Hackenem0135, and
+Hackenem0142.
+
+
+3. Improper Closures Without Technical Basis:
+Approximately 100 to 150 of these submissions were closed—while ZDI continued sorting through the
+intake queue—under the inaccurate justification that no PoC was attached, despite fully executable PoCs
+being included in the original filings. Not a single bounty offer or payment has been extended for any of
+the 150 reports.
+
+
+4. Four Internal Security Assessments Ignored (November 1, 2026):
+C&G Research & Security Labs also submitted four detailed security assessments directly to ZDI
+addressing insider-threat risks, access-control gaps, and audit-log integrity within ZDI's own submission
+infrastructure (including CWE-999 organizational insider-threat findings). All four reports were closed
+without any technical rebuttal.
+Page 2 5. Complete Breakdown in Communication (October 23 – November 22, 2026):
+Since October 23, 2026, ZDI has failed to respond to seven separate email inquiries regarding these
+closures and exposure concerns, as well as unrelated submission questions. A direct telephone call to
+Trend Micro four days prior to this notice reached only sales personnel, who could not assist or escalate
+the matter.
+
+6. Federal Escalation:
+Due to ZDI's silence and the severity of the underlying flaws, formal complaints have already been
+opened with the Cybersecurity and Infrastructure Security Agency (CISA Cases CCASE0237449 and
+CCASE0237450) and the National Institute of Standards and Technology (NIST).
+---
+  
+3. Legal Basis and Industry Standards Violated
+Breach of Contract and the Implied Covenant of Good Faith and Fair Dealing:
+
+
+  When a bug bounty or vulnerability disclosure program invites independent researchers to submit
+sensitive, high-value security research in exchange for fair review and compensation, a binding obligation
+is formed. Under established U.S. contract law principles—including mutual assent, plain-meaning
+interpretation, and expectation remedies (see Justia Contracts Case Law Outline,
+https://www.justia.com/law-schools/justia-case-law-outlines/contracts-cases-outline/; DOJ Civil Resource
+Manual § 72,
+https://www.justice.gov/archives/jm/civil-resource-manual-72-principles-contract-interpretation)—a
+company cannot accept and sort 150 technical submissions, close them on false automated pretexts, and
+withhold all compensation.
+
+
+  Deceptive Business Practices and Corporate Consumer Fraud:
+Representing that submissions are evaluated on technical merit while using automated closures to dismiss
+executable PoCs—and failing to provide transparent notice when submission pipelines are
+exposed—raises serious liability under state unfair and deceptive acts and practices (UDAP) statutes and
+corporate fraud laws (referenced via Cornell Legal Information Institute, https://www.law.cornell.edu, and
+Justia U.S. Law & Statutes, https://www.justia.com/).
+Failure to Meet Vulnerability Disclosure Ethics and Security Standards:
+Page 3 Industry standards for vulnerability coordination require clear dispute procedures, strict separation of
+duties, immutable audit logging, and protection of researcher work product (cf. Bugcrowd Hacker Code of
+Conduct, https://www.bugcrowd.com/resources/hacker-resources/code-of-conduct/). Allowing unpatched
+submissions to be sorted or accessed without transparent, human-verified audit trails violates the core
+trust of coordinated vulnerability disclosure.
+---
+
+4. Curative Demands
+To resolve this matter without immediate litigation and broader public escalation, Trend Micro and ZDI
+must complete the following actions within ten (10) business days of this notice (on or before December
+7, 2026):
+
+
+1. Independent Human Audit of All 156 critical & zero day Submissions:
+Conduct a documented, human-led technical review of every report submitted by C. Gustin / C&G
+Research & Security Labs, including all reports closed for "no PoC" and the four ZDI infrastructure
+assessments. Provide written technical findings for each case.
+2. Full Breach and Exposure Accounting:
+Provide a complete, honest written accounting of whether any of the 150 submitted reports, PoCs, or
+researcher records were exposed, accessed outside authorized triage channels, or affected by the October
+2026 disclosure incidents.
+3. Fair Compensation and Attribution:
+Issue fair bounty offers and proper researcher credit for every valid, reproducible vulnerability submitted
+and retained by ZDI.
+4. Halt Automated Misclassification:
+Immediately suspend automated closures of complex vulnerability reports where executable PoCs or
+reproduction steps are attached, until human-in-the-loop audit controls are verified.
+---
+5. Preservation of Evidence (Litigation Hold)
+Page 4 Trend Micro and ZDI are hereby placed on formal notice to preserve all electronic records, server logs,
+intake timestamps, automated triage scripts, internal communications, and role-based access control
+(RBAC) audit trails relating to:
+All submissions from C&G Research & Security Labs (including Hackenem0016,
+Hackenem0081, Hackenem0109, Hackenem0120, Hackenem0135, Hackenem0142, and all 150
+associated tickets);
+All internal handling and mailing-list logs surrounding the October 19–21, 2026 disclosures; and
+All communications sent to zdi@trendmicro.com since October 23, 2026.
+Destruction, alteration, or overwriting of these records will be treated as spoliation of evidence in any
+subsequent state or federal proceedNOTICE OF BREACH, IMPROPER REPORT HANDLING, AND DEMAND FOR
+CORRECTIVE ACTION
+DATE: November 22, 2026
+TO:
+Trend Micro Incorporated / TrendAI Security
+Zero Day Initiative (ZDI)
+Attn: Legal Department, Executive Leadership, and Program Management
+Email: zdi@trendmicro.com
+Platforms: https://www.trendaisecurity.com/en-us/platform | https://www.zerodayinitiative.com/
+FROM:
+C. Gustin
+C&G Research & Security Labs
+Show quoted text
+Show quoted text
